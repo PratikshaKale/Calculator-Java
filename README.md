@@ -14,7 +14,9 @@ The Calculator App is a basic desktop calculator that allows users to perform ad
 
 Screenshot
 Calculator App Screenshot
-![Uploading image.png…]()
+
+![Uploading Screenshot (1).png…]()
+
 
 
 Features
